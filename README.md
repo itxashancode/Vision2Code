@@ -66,8 +66,7 @@ A modern, interactive personal finance management web application that helps use
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/budget-tracker.git
-cd budget-tracker
+https://github.com/Ashan-aptech/Vision2Code.git
 ```
 
 ### Run the application
@@ -138,16 +137,6 @@ cd budget-tracker
 ## 🤝 Contributing
 
 We welcome contributions! Please feel free to submit pull requests or open issues for bugs and feature requests.
-
-Steps:
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
 
 ## 📄 License
 
