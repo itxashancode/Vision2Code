@@ -1,191 +1,50 @@
-# 💰 Budget Tracker \| APTECH Vision 2025
+# 💰 Budget Tracker | APTECH Vision 2025
 
-An interactive **personal finance management web app** that helps users
-track income, expenses, budgets, savings goals, and insights --- all in
-one place.Developed as part of the **Vision 2025** batch project using
-**HTML, CSS, Bootstrap, Tailwind, and JavaScript**.
+A modern, interactive personal finance management web application that helps users track income, expenses, budgets, savings goals, and gain financial insights — all in one intuitive interface. Developed as part of the **Vision 2025** batch project using **HTML, CSS, Bootstrap, Tailwind, and JavaScript**.
 
-------------------------------------------------------------------------
+![Budget Tracker](https://via.placeholder.com/800x400/29ABE2/FFFFFF?text=Budget+Tracker+Dashboard)
 
-## 🚀 Project Overview
+## 🚀 Live Demo
+[View Live Project](https://yourusername.github.io/budget-tracker) | [Report Bug](https://github.com/yourusername/budget-tracker/issues) | [Request Feature](https://github.com/yourusername/budget-tracker/issues)
 
-The **Budget Tracker** simplifies money management through a clean and
-responsive UI.It allows users to: - Record and categorize **income** and
-**expenses** - Monitor **monthly budgets** - Set and track **financial
-goals** - Visualize data through **interactive charts** - Gain
-actionable **financial insights**
+## ✨ Features
 
-This project demonstrates **front-end UI design**, **DOM interaction**,
-**data visualization**, and **responsive layouts** --- ideal for
-showcasing practical web development skills.
-
-------------------------------------------------------------------------
-
-## 🧠 Features
-
-### 🏠 Overview Dashboard
-
--   Displays total income, expenses, savings, and remaining budget
--   Animated cards with icons and fade-up effects
--   Real-time data updates on new transactions
+### 🏠 Dashboard Overview
+- **Financial Snapshot**: Total income, expenses, savings, and remaining budget
+- **Animated Cards**: Smooth fade-up effects with intuitive icons
+- **Real-time Updates**: Instant data refresh on new transactions
 
 ### 💳 Transaction Management
-
--   Add, view, and filter transactions (income/expense)
--   Modal and inline form support
--   Global search bar for quick lookups
+- **Add Transactions**: Modal and inline forms for income/expense entries
+- **Smart Filtering**: Filter by type, category, or date range
+- **Global Search**: Quick transaction lookup across all records
 
 ### 📊 Budget Tracking
+- **Progress Visualization**: Category-wise spending progress bars
+- **Donut Charts**: Income vs. expense ratio visualization
+- **Category Management**: Editable and expandable category system
 
--   Progress bars for each spending category
--   Donut chart for income vs. expense ratio
--   Editable and expandable category list
+### 🎯 Financial Goals
+- **Goal Setting**: Define target amounts and deadlines
+- **Progress Tracking**: Visual indicators for goal completion
+- **Milestone Celebration**: Achievements for financial targets
 
-### 🎯 Goals
+### 📈 Reports & Analytics
+- **Comparative Charts**: Income vs. Expenses over time
+- **Savings Growth**: Track savings progress with trend analysis
+- **AI Insights**: Smart suggestions for better financial habits
 
--   Set financial goals with progress indicators
--   Track milestones and completion percentage
+### ⚙️ Customization
+- **Currency Support**: Multiple currency options (USD, PKR, etc.)
+- **Notification Preferences**: Customizable alert settings
+- **Profile Management**: Personalize your financial dashboard
 
-### 📈 Reports & Insights
+## 🛠️ Tech Stack
 
--   Charts for "Income vs Expenses" and "Savings Growth"
--   Auto-generated insights and suggestions
--   AI-inspired tips for better financial habits
-
-### ⚙️ Settings
-
--   Currency selection (USD/PKR)
--   Notification preferences
--   Profile customization
-
-------------------------------------------------------------------------
-
-## 🛠️ Technologies Used
-
-  ---------------------------------------------------------------------
-  Category                                 Tools
-  ---------------------------------------- ----------------------------
-  **Frontend**                             HTML5, CSS3, JavaScript
-                                           (ES6)
-
-  **Frameworks**                           Bootstrap 5, Tailwind CSS
-
-  **Charts**                               ApexCharts.js
-
-  **Icons**                                Font Awesome 6
-
-  **Styling Enhancements**                 Glassmorphism effects,
-                                           transitions, scroll
-                                           animations
-  ---------------------------------------------------------------------
-
-------------------------------------------------------------------------
-
-## 📁 Folder Structure
-
-    ├── index.html        # Main webpage
-    ├── index.css         # Styling and animations
-    ├── index.js          # Interactivity, tab logic, charts
-    └── assets/           # (Optional) Images, icons, or CSV imports
-
-------------------------------------------------------------------------
-
-## ⚙️ Installation & Setup
-
-1.  **Clone this repository**
-
-    ``` bash
-    git clone https://github.com/yourusername/budget-tracker.git
-    cd budget-tracker
-    ```
-
-2.  **Open the project** Simply open `index.html` in your browser.
-
-3.  **Optional (Live Server)** If using VS Code:
-
-    -   Install the **Live Server** extension.
-    -   Right-click `index.html` → **Open with Live Server**.
-
-------------------------------------------------------------------------
-
-## 🧩 How It Works
-
--   The **JavaScript (index.js)** manages UI interactions like:
-    -   Tab navigation and section toggling
-    -   Sidebar and modal controls
-    -   Transaction management and filtering
-    -   Search functionality
-    -   Chart initialization and data rendering
--   The **CSS (index.css)** provides:
-    -   Responsive design
-    -   Hover and fade-up animations
-    -   Glassmorphism effects
-    -   Adaptive layouts for mobile and desktop
-
-------------------------------------------------------------------------
-
-## 👥 Team Members & Role Division
-
-  -----------------------------------------------------------------------
-  Team Member              Role            Responsibilities
-  ------------------------ --------------- ------------------------------
-  **Ashan Abdur Rehman**   *Fron           tend UI Designed responsive
-                           Developer*      layout, implemented
-                                           glassmorphism theme, built
-                                           header, sidebar, and cards.
-
-  **Umiyon** \*JavaScrip   t & Implemente  d tab switching, modal forms,
-                           Logic           transaction CRUD, and global
-                           Developer\*     search/filtering.
-
-  **Krishn Kumar**         *Data           Integrated ApexCharts for
-                           Visualization & analytics, handled chart
-                           Reports Lead*   options, insights section, and
-                                           reports UI.
-  -----------------------------------------------------------------------
-
-------------------------------------------------------------------------
-
-## 🎨 UI Highlights
-
--   **Color Palette:**
-    -   Primary: `#29ABE2` (blue)
-    -   Accent: `#FFA500` (orange)
-    -   Background: `#F0F8FF` (soft white-blue)
--   **Typography:**
-    -   Headlines: *Space Grotesk*
-    -   Body Text: *Inter*
--   **Design Principles:**
-    -   Clean glass-effect cards
-    -   Smooth hover animations
-    -   Mobile-first responsive grid
-
-------------------------------------------------------------------------
-
-## 📷 Screenshots (Recommended)
-
-  Section              Preview
-  -------------------- -----------------------------------------
-  Overview Dashboard   💡 Add a screenshot of cards and charts
-  Transactions         💳 Show Add & History tabs
-  Budgets              📊 Show donut and progress bars
-  Goals                🎯 Show goal cards
-
-------------------------------------------------------------------------
-
-## 🧭 Future Improvements
-
--   Local storage or backend integration for data persistence- Login and
-    multi-user support- CSV export and AI-generated financial
-    recommendations- Dark mode toggle
-
-------------------------------------------------------------------------
-
-## 🏁 Conclusion
-
-The **Budget Tracker (Vision 2025)** project demonstrates a complete and
-visually rich personal finance tool --- combining **modern UI**,
-**interactive charts**, and **functional JS logic** --- built
-collaboratively by a passionate student team.
-
-> 💬 *"Track smart, save better, and visualize your financial future."*
+| Category | Technologies |
+|----------|--------------|
+| **Frontend** | HTML5, CSS3, JavaScript (ES6+) |
+| **Frameworks** | Bootstrap 5, Tailwind CSS |
+| **Charts & Visualization** | ApexCharts.js |
+| **Icons** | Font Awesome 6 |
+| **Design Elements** | Glassmorphism, CSS Animations, Responsive Grid |
