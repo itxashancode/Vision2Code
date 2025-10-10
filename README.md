@@ -1,12 +1,6 @@
-# 💰 Budget Tracker | APTECH Vision 2025
+# 💰 BUDGETMATE | APTECH Vision 2025
 
 A modern, interactive personal finance management web application that helps users track income, expenses, budgets, savings goals, and gain financial insights — all in one intuitive interface. Developed as part of the **Vision 2025** batch project using **HTML, CSS, Bootstrap, Tailwind, and JavaScript**.
-
----
-
-🚀 **Live Demo**
-
-[View Live Project] | [Report Bug] | [Request Feature]
 
 ---
 
@@ -59,21 +53,6 @@ A modern, interactive personal finance management web application that helps use
 | Charts & Visualization | ApexCharts.js                                  |
 | Icons                  | Font Awesome 6                                 |
 | Design Elements        | Glassmorphism, CSS Animations, Responsive Grid |
-
----
-
-## 📁 Project Structure
-
-```
-budget-tracker/
-├── index.html        # Main application page
-├── index.css         # Custom styles, animations, and glassmorphism effects
-├── index.js          # Core JavaScript functionality, charts, and interactions
-└── assets/           # Static resources
-    ├── images/
-    └── icons/
-```
-
 ---
 
 ## 🚀 Quick Start
@@ -128,7 +107,6 @@ cd budget-tracker
 ### 🎨 Color Palette
 
 * **Primary:** `#29ABE2` (Blue)
-* **Accent:** `#FFA500` (Orange)
 * **Background:** `#F0F8FF` (Soft white-blue)
 * **Glass Effect:** `rgba(255, 255, 255, 0.1)` with backdrop blur
 
