@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Animated Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=29ABE2&center=true&vCenter=true&width=700&lines=Track+Income+%26+Expenses+📊;Visualize+Your+Finances+📈;Set+Goals.+Crush+Them.+🎯;Built+with+Bootstrap+%2B+Tailwind+%2B+ApexCharts" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=29ABE2&center=true&vCenter=true&width=700&lines=Track+Income+%26+Expenses;Visualize+Your+Finances;Set+Goals.+Crush+Them.;Built+with+Bootstrap+%2B+Tailwind+%2B+ApexCharts" alt="Typing SVG" />
 
 <br/><br/>
 
